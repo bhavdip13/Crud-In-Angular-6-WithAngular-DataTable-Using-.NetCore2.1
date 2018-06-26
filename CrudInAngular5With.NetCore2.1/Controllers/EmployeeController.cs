@@ -15,6 +15,7 @@ namespace CrudInAngular5With.NetCore2.Controllers
 	
 			EmployeeDataAccessLayer objemployee = new EmployeeDataAccessLayer();
 
+		//get all recored
 			[HttpGet]
 			[Route("api/Employee/Index")]
 			public IEnumerable<TblEmployee> Index()
