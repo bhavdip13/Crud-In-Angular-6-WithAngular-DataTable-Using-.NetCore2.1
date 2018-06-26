@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudInAngular5With.NetCore2.1", "CrudInAngular5With.NetCore2.1\CrudInAngular5With.NetCore2.1.csproj", "{426B423F-91F3-4067-9FC9-0DFCC067D3FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudInAngular5With.NetCore2", "CrudInAngular5With.NetCore2.1\CrudInAngular5With.NetCore2.csproj", "{426B423F-91F3-4067-9FC9-0DFCC067D3FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
